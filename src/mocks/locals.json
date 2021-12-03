@@ -1,0 +1,19 @@
+{
+    "locals": [
+        {
+            "_id": "6168df8558c3535245adfb07",
+            "ubicacion_local": "Laferrere 1100",
+            "administrador_local": "Fernando Rosas",
+            "ciudad_local": "Santa Fe",
+            "telefono_local": "4000003"
+        },
+        {
+            "_id": "6168df8558c3535245adfb08",
+            "ubicacion_local": "Ugarte 1300",
+            "administrador_local": "Victor Lucca",
+            "ciudad_local": "Rosario",
+            "telefono_local": "4000000"
+        }
+    ]
+  }
+  

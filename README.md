@@ -11,9 +11,13 @@
 Abre, Marcos Julian
 
 
-# Link feature branch
+# Responsabilidades
 
-+ Enlace a [Marcos Locales](feature/locales) para visualizar el repos.
++ Marcos - Locales
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# Deploy Heroku
+
++ Link https://mcga-parcial2.herokuapp.com/
+
+
